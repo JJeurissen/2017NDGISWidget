@@ -1,0 +1,6 @@
+{
+    "configText":"Minnesota Counties",
+    "serviceURL": "https://services.arcgis.com/BG6nSlhZSAWtExvp/ArcGIS/rest/services/counties_MN/FeatureServer/0",
+    "outlineColor": [255,255,0],
+    "fillColor": [255,255,0,0.35]
+}
